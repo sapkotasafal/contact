@@ -20,7 +20,7 @@
     </div>
     </form>
     <hr>
-    <h2>List of Contacts</h2>
+    <h2>List of Contact</h2>
 
     <table>
     <tr>
